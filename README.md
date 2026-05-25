@@ -1,95 +1,102 @@
 <div align="center">
 
-# 𝙏𝙝𝙖𝙣𝙪𝙚𝙨𝙝 𝘼 𝙑
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=THANUESH%20A%20V&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=AWS+%7C+DevOps+%7C+Kubernetes;Cloud+Infrastructure+%26+Automation;Building+Reliable+Cloud-Native+Systems;CI%2FCD+%7C+Terraform+%7C+GitOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AWS+DEVOPS+ENGINEER+IN+TRAINING;KUBERNETES+%7C+CI%2FCD+%7C+AUTOMATION;BUILDING+PRODUCTION-STYLE+SYSTEMS;LINUX+%7C+TERRAFORM+%7C+GITOPS" />
 
 </div>
 
 ---
 
-```bash
-> whoami
-
-Aspiring AWS DevOps Engineer
-Focused on Cloud Infrastructure, Automation, and Kubernetes.
-Learning by building production-style DevOps projects.
-```
-
----
-
-# stack
+# 🎮 PLAYER PROFILE
 
 ```yaml
-cloud:
-  - AWS
+PLAYER: THANUESH A V
+CLASS: AWS DEVOPS ENGINEER
+LEVEL: FRESHER
+SPECIALIZATION:
+  - CLOUD AUTOMATION
+  - KUBERNETES
+  - CI/CD PIPELINES
+  - INFRASTRUCTURE AS CODE
 
-devops:
-  - Docker
-  - Kubernetes
-  - Terraform
-  - Jenkins
-  - GitHub Actions
-  - ArgoCD
-
-monitoring:
-  - Prometheus
-  - Grafana
-  - ELK Stack
-  - CloudWatch
-
-scripting:
-  - Bash
-  - Python
-  - YAML
+CURRENT MISSION:
+  BUILDING SCALABLE CLOUD-NATIVE SYSTEMS
 ```
 
 ---
 
-# projects
-
-## aws-eks-end-to-end-project
-
-- Provisioned Amazon EKS cluster using eksctl
-- Configured ALB Ingress Controller & IRSA
-- Deployed Kubernetes applications using YAML manifests
-- Managed ingress routing and secure AWS integration
-
----
-
-## gitops-ci-cd-automation
-
-- Automated CI/CD pipelines using GitHub Actions
-- Implemented GitOps deployments with ArgoCD
-- Managed Kubernetes configurations using Helm
-
----
-
-## production-grade-aws-vpc
-
-- Designed VPC with public/private subnets across multiple AZs
-- Configured NAT Gateway, ALB, and Auto Scaling
-- Implemented secure and highly available infrastructure
-
----
-
-# github stats
+# ⚔️ LOADOUT
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thanueshofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thanueshofficial&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,python,git,prometheus,grafana&theme=dark" />
 
 </div>
 
 ---
 
+# 🕹 ACTIVE QUESTS
+
+## ☁️ AWS EKS END-TO-END DEPLOYMENT
+
+```bash
+STATUS: COMPLETED
+
+✓ Provisioned EKS Cluster
+✓ Configured ALB Ingress Controller
+✓ Implemented IRSA Authentication
+✓ Deployed Kubernetes Workloads
+✓ Managed Traffic Routing
+```
+
+---
+
+## ⚡ GITOPS CI/CD AUTOMATION
+
+```bash
+STATUS: COMPLETED
+
+✓ Built GitHub Actions Pipelines
+✓ Implemented ArgoCD Deployments
+✓ Managed Helm Configurations
+✓ Automated Kubernetes Delivery
+```
+
+---
+
+## 🌐 PRODUCTION AWS VPC ARCHITECTURE
+
+```bash
+STATUS: COMPLETED
+
+✓ Designed Multi-AZ VPC
+✓ Configured Public/Private Subnets
+✓ Implemented NAT Gateway & ALB
+✓ Enabled Auto Scaling & Security
+```
+
+---
+
+# 📊 PLAYER STATS
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/thanuesh-v-b9b66439b/)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thanueshofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanueshofficial)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thanueshofficial&theme=tokyonight&hide_border=true&background=0f172a" />
+
+</div>
+
+---
+
+# 🌌 CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/thanuesh-v-b9b66439b/)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanueshofficial)
 
 </div>
 
@@ -98,7 +105,8 @@ scripting:
 <div align="center">
 
 ```text
-deploy • automate • scale
+[ SYSTEM STATUS ]
+Cloud Infrastructure • Automation • Kubernetes • GitOps
 ```
 
 </div>
