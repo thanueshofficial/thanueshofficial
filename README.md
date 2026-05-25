@@ -1,44 +1,56 @@
-<h1 align="center">Hi 👋, I'm Thanuesh A V</h1>
-<h3 align="center">Aspiring AWS DevOps Engineer | Cloud & Kubernetes Enthusiast</h3>
+<div align="center">
+
+# ⚔️ Thanuesh A V ⚔️
+### ☁️ AWS DevOps Engineer in Training | Kubernetes Shinobi | Cloud Automation Enthusiast
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRmYjBwaG9lYjI2eW90NDF4aW1uM3NqMTR6M2M5a2VvN2Q5M2M5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-- 🌱 Learning and building real-world DevOps projects on AWS Cloud
-- ☁️ Passionate about Cloud Computing, Kubernetes, CI/CD, and Automation
-- 🔧 Hands-on experience with AWS, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions
-- 📚 Practicing Infrastructure as Code (IaC), GitOps, and scalable cloud deployments
-- 🎯 Focused on becoming a Production-Level DevOps Engineer
+```yaml
+Name: Thanuesh A V
+Role: Aspiring AWS DevOps Engineer
+Focus:
+  - Cloud Computing
+  - Kubernetes
+  - CI/CD Automation
+  - Infrastructure as Code
+Mission:
+  - Build scalable cloud-native systems
+  - Master DevOps Engineering
+  - Automate everything possible
+```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Arsenal
 
-### ☁️ Cloud Platform
-- AWS (EC2, S3, IAM, VPC, ALB, Auto Scaling, EKS, CloudWatch)
+## ☁️ Cloud
+- AWS (EC2, S3, IAM, VPC, ALB, Auto Scaling, EKS)
 
-### ⚙️ DevOps & CI/CD
-- Jenkins
-- GitHub Actions
-- ArgoCD
-
-### 🐳 Containers & Orchestration
+## 🐳 Containers & Orchestration
 - Docker
 - Kubernetes
 - Helm
 
-### 🏗️ Infrastructure as Code
+## ⚙️ DevOps & Automation
+- Jenkins
+- GitHub Actions
+- ArgoCD
 - Terraform
 - CloudFormation
 
-### 📊 Monitoring & Logging
+## 📊 Monitoring
 - Prometheus
 - Grafana
 - ELK Stack
 - CloudWatch
 
-### 💻 Scripting & Tools
+## 💻 Scripting
 - Linux
 - Bash
 - Python
@@ -47,43 +59,54 @@
 
 ---
 
-## 📌 Featured Projects
+# 🚀 DevOps Missions Completed
 
-### 🚀 AWS EKS End-to-End DevOps Project
-- Provisioned and managed Amazon EKS cluster
-- Deployed containerized applications using Kubernetes
-- Configured ALB Ingress Controller and IRSA
-- Implemented scalable Kubernetes deployments
-
-### 🔄 CI/CD & GitOps Automation Project
-- Built CI/CD pipelines using GitHub Actions
-- Implemented GitOps deployment with ArgoCD
-- Managed Kubernetes deployments using Helm
-
-### 🌐 Production-Grade AWS VPC Architecture
-- Designed secure VPC with public/private subnets
-- Configured ALB, Auto Scaling, NAT Gateway
-- Implemented highly available infrastructure architecture
+## 🔥 AWS EKS End-to-End Deployment
+✔️ Provisioned Amazon EKS Cluster  
+✔️ Configured ALB Ingress Controller  
+✔️ Implemented IRSA Authentication  
+✔️ Deployed Kubernetes Applications  
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanueshofficial&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanueshofficial&theme=tokyonight" />
-</p>
+## ⚔️ GitOps & CI/CD Pipeline
+✔️ Automated Deployments using GitHub Actions  
+✔️ Implemented GitOps using ArgoCD  
+✔️ Managed Kubernetes using Helm Charts  
 
 ---
 
-## 🌐 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/thanuesh-v-b9b66439b/
-- GitHub: https://github.com/thanueshofficial
+## 🌐 Production-Grade AWS VPC Architecture
+✔️ Designed Public & Private Subnets  
+✔️ Configured NAT Gateway & ALB  
+✔️ Implemented Highly Available Infrastructure  
 
 ---
 
-<h3 align="center">💡 “Automating infrastructure, scaling applications, and continuously learning DevOps.”</h3>
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thanueshofficial&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanueshofficial&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌌 Connect With Me
+
+### 🔗 LinkedIn
+www.linkedin.com/in/thanuesh-v-b9b66439b/
+
+### 🐙 GitHub
+https://github.com/thanueshofficial
+
+---
+
+<div align="center">
+
+## ⚡ “Deploy. Automate. Scale. Repeat.” ⚡
+
+</div>
