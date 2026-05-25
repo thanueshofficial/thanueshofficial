@@ -1,32 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=THANUESH%20A%20V&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Thanuesh%20A%20V&fontColor=58A6FF&fontSize=48&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AWS+DEVOPS+ENGINEER+IN+TRAINING;KUBERNETES+%7C+CI%2FCD+%7C+AUTOMATION;BUILDING+PRODUCTION-STYLE+SYSTEMS;LINUX+%7C+TERRAFORM+%7C+GITOPS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AWS+DEVOPS+ENGINEER+IN+TRAINING;KUBERNETES+%7C+DOCKER+%7C+CI%2FCD;AUTOMATING+CLOUD+INFRASTRUCTURE;BUILDING+SCALABLE+CLOUD-NATIVE+SYSTEMS" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 
 </div>
 
 ---
 
-# 🎮 PLAYER PROFILE
+# ⚔️ 𝙋𝙍𝙊𝙁𝙄𝙇𝙀
 
 ```yaml
-PLAYER: THANUESH A V
-CLASS: AWS DEVOPS ENGINEER
-LEVEL: FRESHER
-SPECIALIZATION:
+NAME: THANUESH A V
+ROLE: ASPIRING AWS DEVOPS ENGINEER
+
+POWER LEVEL:
   - CLOUD AUTOMATION
   - KUBERNETES
+  - TERRAFORM
   - CI/CD PIPELINES
-  - INFRASTRUCTURE AS CODE
+  - GITOPS
 
-CURRENT MISSION:
-  BUILDING SCALABLE CLOUD-NATIVE SYSTEMS
+CURRENT ARC:
+  MASTERING CLOUD-NATIVE INFRASTRUCTURE
 ```
 
 ---
 
-# ⚔️ LOADOUT
+# 🔥 𝙎𝙆𝙄𝙇𝙇 𝙏𝙍𝙀𝙀
 
 <div align="center">
 
@@ -36,67 +39,61 @@ CURRENT MISSION:
 
 ---
 
-# 🕹 ACTIVE QUESTS
+# 🚀 𝙈𝙄𝙎𝙎𝙄𝙊𝙉𝙎 𝘾𝙊𝙈𝙋𝙇𝙀𝙏𝙀𝘿
 
-## ☁️ AWS EKS END-TO-END DEPLOYMENT
+## ☁️ AWS EKS END-TO-END PROJECT
 
-```bash
-STATUS: COMPLETED
-
-✓ Provisioned EKS Cluster
-✓ Configured ALB Ingress Controller
-✓ Implemented IRSA Authentication
-✓ Deployed Kubernetes Workloads
-✓ Managed Traffic Routing
+```diff
++ Provisioned Amazon EKS Cluster
++ Configured ALB Ingress Controller
++ Implemented IAM Roles for Service Accounts
++ Deployed Kubernetes Applications
++ Managed Traffic Routing & Validation
 ```
 
 ---
 
-## ⚡ GITOPS CI/CD AUTOMATION
+## ⚡ GITOPS & CI/CD AUTOMATION
 
-```bash
-STATUS: COMPLETED
-
-✓ Built GitHub Actions Pipelines
-✓ Implemented ArgoCD Deployments
-✓ Managed Helm Configurations
-✓ Automated Kubernetes Delivery
+```diff
++ Built CI/CD Pipelines using GitHub Actions
++ Automated Kubernetes Deployments
++ Implemented GitOps with ArgoCD
++ Managed Helm-based Configurations
 ```
 
 ---
 
 ## 🌐 PRODUCTION AWS VPC ARCHITECTURE
 
-```bash
-STATUS: COMPLETED
-
-✓ Designed Multi-AZ VPC
-✓ Configured Public/Private Subnets
-✓ Implemented NAT Gateway & ALB
-✓ Enabled Auto Scaling & Security
+```diff
++ Designed Multi-AZ Secure VPC
++ Configured Public & Private Subnets
++ Implemented NAT Gateway & Load Balancer
++ Enabled Auto Scaling & High Availability
 ```
 
 ---
 
-# 📊 PLAYER STATS
+# 📊 𝙋𝙊𝙒𝙀𝙍 𝙎𝙏𝘼𝙏𝙎
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thanueshofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thanueshofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thanueshofficial&theme=tokyonight&hide_border=true&background=0f172a" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thanueshofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
 ---
 
-# 🌌 CONNECT
+# 🌌 𝘾𝙊𝙉𝙉𝙀𝘾𝙏
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/thanuesh-v-b9b66439b/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/thanuesh-v-b9b66439b/)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanueshofficial)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanueshofficial)
 
 </div>
 
@@ -104,9 +101,8 @@ STATUS: COMPLETED
 
 <div align="center">
 
-```text
-[ SYSTEM STATUS ]
-Cloud Infrastructure • Automation • Kubernetes • GitOps
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+### ⚡ *"Deploy. Automate. Scale. Repeat."* ⚡
 
 </div>
